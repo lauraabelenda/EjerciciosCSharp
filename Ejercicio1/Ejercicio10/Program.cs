@@ -23,7 +23,7 @@ namespace Ejercicio10
                 }
 
             }
-            Console.ReadKey();
+            Console.ReadLine();
         }
     }
 }
